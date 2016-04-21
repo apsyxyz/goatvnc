@@ -2,7 +2,6 @@
  * Lame code to fuck with sensationalist idiots
  */
 #include <stdio.h>
-#include <stdbool.h>
 
 #include <gd.h>
 #include <rfb/rfb.h>
